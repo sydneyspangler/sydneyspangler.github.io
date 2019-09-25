@@ -6,7 +6,7 @@ body {
 
 .bg { 
   /* The image used */
-  background-image: url("cactus.jpg");
+  background-image: url("media/cactus.jpg");
 
   /* Full height */
   height: 100%; 
