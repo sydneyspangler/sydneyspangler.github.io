@@ -1,5 +1,5 @@
 body {
-    margin: 60px auto;
+    margin: 0 auto;
     width: 70%;
 }
 nav ul {
@@ -29,6 +29,10 @@ a {
 a:hover {
     text-decoration: line-through;
     
+}
+.blurb {
+    margin: 0 auto;
+    padding: 10px;
 }
 h1 {
     font-size: 2em;
