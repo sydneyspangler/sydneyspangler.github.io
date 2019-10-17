@@ -32,7 +32,7 @@ a:hover {
 }
 h1 {
     font-size: 2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'American Typewriter', 'serif';
 }
 p {
     font-size: 1.5em;
@@ -43,8 +43,9 @@ p {
 }
 ul {
     list-style: none;
-    margin: 20px auto 40px
-    padding: 0   
+    margin: 20px auto 40px;
+    padding: 0;
+    color: #292929
 }
 footer {
     border-top: 1px solid #d5d5d5;
