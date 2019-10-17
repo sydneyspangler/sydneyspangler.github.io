@@ -1,11 +1,12 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-family:'American Typewriter', 'serf';
     text-align: left; 
     color: #292929
 }
 nav ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'American Typewriter', 'serf';
     font-size: 40px;
     padding: 0px;
     list-style: none;
