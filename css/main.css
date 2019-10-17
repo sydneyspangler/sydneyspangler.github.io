@@ -35,6 +35,11 @@ h1 {
     font-family:'American Typewriter', 'serif';
     color: #2A2A2A
 }
+h2 {
+    font-size: 1.5em;
+    font-family: 'American Typewriter', 'serif';
+    color: #2A2A2A
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
@@ -44,9 +49,13 @@ p {
 }
 ul {
     list-style: none;
-    margin: 20px auto 40px;
     padding: 0;
+    margin: 0;
     color: #292929
+}
+li {
+    list-style: none;
+    padding-left: 16px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
