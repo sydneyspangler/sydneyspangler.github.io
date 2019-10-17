@@ -1,9 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family:'American Typewriter', 'serf';
-    text-align: left; 
-    color: #292929
 }
 nav ul {
     font-family:'American Typewriter', 'serf';
@@ -40,7 +37,9 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    font-family:'American Typewriter', 'serf';
+    text-align: left; 
+    color: #292929
 }
 ul {
     list-style: none;
