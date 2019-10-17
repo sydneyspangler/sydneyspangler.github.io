@@ -17,6 +17,7 @@ footer ul {
     list-style: none;
     font-weight: bold;
     text-align: right;
+    color: #555555
 }
 nav ul li, footer ul li {
     display: inline;
