@@ -35,6 +35,11 @@ figure {
     margin: 0 auto;
     padding: 10px;
 }
+img {
+    border-radius: 8px;
+    max-width: 50%;
+    height: auto;
+}
 .blurb {
     margin: 0 auto;
     padding: 10px;
