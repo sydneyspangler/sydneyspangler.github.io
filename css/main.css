@@ -4,9 +4,17 @@ body {
     text-align: left; 
     color: #292929
 }
-nav ul, footer ul {
+nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 40px;
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+    text-align: center;
+}
+footer ul {
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 20px;
     padding: 0px;
     list-style: none;
     font-weight: bold;
