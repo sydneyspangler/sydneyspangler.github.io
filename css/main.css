@@ -5,7 +5,8 @@ body {
 nav ul {
     font-family:'Palatino Linotype', 'serif';
     font-size: 25px;
-    padding: 20px;
+    padding: 0px;
+    margin-top: 50px;
     list-style: none;
     font-weight: bold;
     text-align: center;
