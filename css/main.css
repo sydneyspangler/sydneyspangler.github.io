@@ -20,6 +20,12 @@ footer ul {
     text-align: right;
     color: #555555
 }
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
