@@ -9,6 +9,7 @@ nav ul {
     list-style: none;
     font-weight: bold;
     text-align: center;
+    padding: 5px;
 }
 footer ul {
     font-family:'American Typewriter', 'serif';
