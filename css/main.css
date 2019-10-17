@@ -21,6 +21,7 @@ a {
 }
 a:hover {
     text-decoration: line-through;
+    
 }
 h1 {
     font-size: 2em;
