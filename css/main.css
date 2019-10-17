@@ -39,7 +39,12 @@ img {
     border-radius: 8px;
     max-width: 100%;
     height: auto;
-    float: left;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 .blurb {
     margin: 0 auto;
