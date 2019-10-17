@@ -5,11 +5,10 @@ body {
 nav ul {
     font-family:'Palatino Linotype', 'serif';
     font-size: 25px;
-    padding: 0px;
+    padding: 20px;
     list-style: none;
     font-weight: bold;
     text-align: center;
-    padding: 5px;
 }
 footer ul {
     font-family:'Palatino Linotype', 'serif';
