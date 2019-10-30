@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+	<html lang="en">
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to home stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body>
+			
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="mailto:spangler.sydney@gmail.com">email</a></li>
+	        		<li><a href="https://sydneyspangler.github.io">sydney spangler</a></li>
+				</ul>
+			</footer>
+		</body>
+	</html>
