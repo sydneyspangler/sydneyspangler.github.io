@@ -1,5 +1,5 @@
 html{
-    background-color: #f3d8d8;
+    background-color: #ffffff;
 }
 #home{
     background-color: #ffffff;
@@ -38,7 +38,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #2ec3de;
+    color: #b94842;
 }
 a:hover {
     text-decoration: line-through;
